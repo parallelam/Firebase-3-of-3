@@ -1,2 +1,2 @@
-# W7C3
-Activities
+# unfinished
+Activities, exercises and self-education with Firebase database and general database practices.
